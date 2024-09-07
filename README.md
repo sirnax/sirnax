@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 💼 I’m currently working as a Systems Engineer & Backend Developer
 - 👨‍🎓 I’m currently studying my Comp Sci MsC
-- 🔍 I’m looking for my grass roots job in a comp sci based role. 
-- 📡 My dream job is to work as a tech-dev in some relation to space or space based assets.
+- 🔍 I’m looking for a new comp sci based role to coninue growing and learning
+- 📡 My dream job is to work as a tech-dev in some relation to space or space based assets
 <!--
 **sirnax/sirnax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
