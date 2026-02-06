@@ -1,19 +1,13 @@
-### Hi there 👋
-- 💼 I’m currently working as a Systems Engineer & Backend Developer
-- 👨‍🎓 I’m currently studying my Comp Sci MsC
-- 🔍 I’m looking for a new comp sci based role to continue growing and learning
-- 📡 My dream job is to work as a tech-dev in some relation to space or space based assets
-<!--
-**sirnax/sirnax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey 👋
 
-Here are some ideas to get you started:
+I’m a systems-minded engineer and founder working at the intersection of **adaptive interfaces, AI, and human-centred design**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 Building neuro-adaptive software & tools that reduce cognitive load  
+- 🚀 Founder at **ForEveryMind™** — accessibility-first interface systems  
+- 🛰️ Background in backend, systems engineering, and cloud architecture  
+- 🌌 Long-term focus: space, autonomy, and human-computer interaction in extreme environments  
+- 🎓 MSc Computer Science (part-time)
+
+I like hard problems, weird ideas, and building things that *actually* help people think more clearly.
+
+If you’re into adaptive systems, space-adjacent tech, or thoughtful software design — you’ll probably find something interesting here.
